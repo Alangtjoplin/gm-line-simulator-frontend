@@ -1,0 +1,14 @@
+build/
+node_modules/
+.idea/
+*.log
+*.DS_Store
+*.swp
+*.swo
+*.tmp
+*.dSYM
+*.vscode/
+*.dart_tool/
+*.pub/
+*.lock
+
